@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ApplicationP00911_OnClickButtons</string>
+    <string name="button_1_clicked">button1 clicked</string>
+    <string name="button_2_clicked">button2 clicked</string>
+    <string name="button_3_clicked">button3 clicked</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+</resources>
